@@ -1,16 +1,4 @@
-{
-    "name": "BYPASS-BOT",
-    "description": "Telegram BYPASS-BOT.",
-    "logo": "https://te.legra.ph/file/51d142cd1c5817832dd5c.jpg",
-    "keywords": [
-        "telegram",
-        "BYPASS-BOT",
-        "bot"
-    ],
-    "repository": "https://github.com/Shinigamibots5/BYPASS-BOT",
-    "website": "",
-    "success_url": "https://t.me/Bae_wafaaa",
-    "env": }
+
     {
           "buildpacks": [
                     {
