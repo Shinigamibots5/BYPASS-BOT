@@ -74,6 +74,7 @@ for Linux
 
 <h3 align="center">
    ─「 Deploying on Heroku 」─
+</h3>
 
 - fork this repo and edit TOKEN.txt and fill your bot token
 - use the link below and deploy it
