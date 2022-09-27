@@ -10,7 +10,8 @@
     "repository": "https://github.com/Shinigamibots5/BYPASS-BOT",
     "website": "",
     "success_url": "https://t.me/Bae_wafaaa",
-    "env": {
+    "env": }
+    {
           "buildpacks": [
                     {
                               "url": "heroku/python"
