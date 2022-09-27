@@ -71,20 +71,17 @@ for Linux
   run python3 main.py
 ```
 
-
-<h3 align="center">
-   ─「 Deploying on Heroku 」─
-</h3>
-
 - fork this repo and edit TOKEN.txt and fill your bot token
 - use the link below and deploy it
+<h3 align="center">
+   ─「 Deploying on Heroku 」─
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Shinigamibots5/BYPASS-BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
 ━━━━━━━━━━━━━━━━━━━━
-
+</h3>
 
 - dont forget to enable worker in resources tab
 - done
